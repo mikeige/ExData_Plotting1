@@ -1,3 +1,6 @@
+## Update
+This repository has been updated with 4 R script files plot1.R, plot2.R, plot3.R, plot4.R and the respective .png files generated from their plotted outputs.
+
 ## Introduction
 
 This assignment uses data from
